@@ -7,7 +7,7 @@
 
 		<h4>Free Time</h4>
 		Treating old PC hardware like legos, playing drums, camping, <a href="http://en.wikipedia.org/wiki/The_Settlers_of_Catan">games</a> with friends,
-		keeping up with the inter web, wife, church, cat...<br>
+		keeping up with the inter web, wife, daughter, church, cat...<br>
 
 		<h4>Bookmark Rotation</h4>
 		<ul>
