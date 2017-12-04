@@ -4,7 +4,7 @@
   				<h3>My Resume</h3>
 
   				<div class="contact">
-  					<a href="files/Resume.pdf">PDF</a>
+  					<a href="/static/Resume.pdf" target="_blank">PDF</a>
   				</div>
 
 
